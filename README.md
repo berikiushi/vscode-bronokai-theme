@@ -1,6 +1,6 @@
 # Bronokai Theme for VS Code
 
-![Preview](https://raw.githubusercontent.com/berikiushi/vscode-bronokai-theme/images/theme-bronokai.png)
+![Preview](https://raw.githubusercontent.com/berikiushi/vscode-bronokai-theme/master/images/theme-bronokai.png)
 
 
 # Installation
