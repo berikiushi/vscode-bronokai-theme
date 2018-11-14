@@ -4,8 +4,8 @@ A cross between Brogrammer and Monokai theme
 
 ---
 
-<p align="center">
-  <img alt="preview" src="https://raw.githubusercontent.com/berikiushi/vscode-bronokai-theme/master/images/screenshot.png" width="90%">
+<p>
+  <img alt="preview" src="https://raw.githubusercontent.com/berikiushi/vscode-bronokai-theme/master/images/screenshot.png" style="width: 90%; max-width: 772px !important;">
 </p>
 
 > The preview above shows the _Bronokai_ theme with the _Roboto Mono_ font.
