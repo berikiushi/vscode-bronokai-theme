@@ -2,7 +2,13 @@
 
 A cross between Brogrammer and Monokai theme
 
-![Preview](https://raw.githubusercontent.com/berikiushi/vscode-bronokai-theme/master/images/theme-bronokai.png)
+---
+
+<p align="center">
+  <img alt="preview" src="https://raw.githubusercontent.com/berikiushi/vscode-bronokai-theme/master/images/screenshot.png" width="90%">
+</p>
+
+> The preview above shows the _Bronokai_ theme with the _Roboto Mono_ font.
 
 ## Installation
 
