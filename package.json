@@ -1,8 +1,11 @@
 {
     "name": "bronokai-theme",
-    "author": "Yury Lysov <berikiushi@gmail.com> (http://twitter.com/berikiushi)",
+    "author": {
+        "name": "Yury Lysov",
+        "url": "http://github.com/berikiushi"
+    },
     "displayName": "Bronokai Theme",
-    "description": "A brogrammer + monokai theme for Visual Studio Code.",
+    "description": "A cross between Brogrammer and Monokai theme",
     "version": "0.0.1",
     "publisher": "berikiushi0213",
     "repository": {
@@ -11,8 +14,9 @@
     },
     "license": "MIT",
     "engines": {
-        "vscode": "^1.29.0"
+        "vscode": "^1.25.1"
     },
+    "icon": "images/icon.png",
     "categories": [
         "Themes"
     ],
