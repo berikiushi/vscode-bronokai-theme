@@ -1,45 +1,28 @@
 {
-  "name": "bronokai-theme",
-  "publisher": "berikiushi",
-  "author": "Yury Lysov <berikiushi@gmail.com> (http://twitter.com/berikiushi)",
-  "displayName": "Bronokai Theme",
-  "version": "0.0.1",
-  "description": "A brogrammer + monokai theme for Visual Studio Code.",
-  "galleryBanner": {
-      "color": "#1d1f21",
-      "theme": "dark"
-  },
-  "keywords": [
-      "theme",
-      "dark",
-      "monokai",
-      "brogrammer"
-  ],
-  "repository": {
-      "type": "git",
-      "url": "https://github.com/berikiushi/vscode-bronokai-theme"
-  },
-  "license": "MIT",
-  "engines": {
-      "vscode": "^1.29.0"
-  },
-  "scripts": {
-      "start": "nodemon --exec vsce package"
-  },
-  "categories": [
-      "Themes"
-  ],
-  "contributes": {
-      "themes": [
-          {
-              "label": "Bronokai",
-              "uiTheme": "vs-dark",
-              "path": "./themes/bronokai.json"
-          }
-      ]
-  },
-  "devDependencies": {
-      "nodemon": "^1.18.6",
-      "vsce": "^1.53.0"
-  }
+    "name": "bronokai-theme",
+    "author": "Yury Lysov <berikiushi@gmail.com> (http://twitter.com/berikiushi)",
+    "displayName": "Bronokai Theme",
+    "description": "A brogrammer + monokai theme for Visual Studio Code.",
+    "version": "0.0.1",
+    "publisher": "berikiushi0213",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/berikiushi/vscode-bronokai-theme"
+    },
+    "license": "MIT",
+    "engines": {
+        "vscode": "^1.29.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Bronokai",
+                "uiTheme": "vs-dark",
+                "path": "./themes/bronokai.json"
+            }
+        ]
+    }
 }
