@@ -14,14 +14,14 @@ A cross between Brogrammer and Monokai theme
 
 ## Colors
 
-light-gray: #c5c8c6;
-gray: #969896;
-dark-gray: #1d1f21;
+- `light-gray: #c5c8c6;`
+- `gray: #969896;`
+- `dark-gray: #1d1f21;`
 
-cyan: #1abc9c;
-blue: #3498db;
-purple: #9b59b6;
-green: #2ecc71;
-red: #e74c3c;
-orange: #e67e22;
-light-orange: #f1c40f;
+* `cyan: #1abc9c;`
+* `blue: #3498db;`
+* `purple: #9b59b6;`
+* `green: #2ecc71;`
+* `red: #e74c3c;`
+* `orange: #e67e22;`
+* `light-orange: #f1c40f;`
