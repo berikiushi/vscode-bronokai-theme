@@ -1,13 +1,13 @@
 {
-    "name": "bronokai-theme",
+    "name": "bronokai-dark-theme",
     "author": {
         "name": "Yury Lysov",
         "url": "http://github.com/berikiushi"
     },
-    "displayName": "Bronokai Theme",
+    "displayName": "Bronokai Dark Theme",
     "description": "A cross between Brogrammer and Monokai theme",
-    "version": "0.0.3",
-    "publisher": "berikiushi0213",
+    "version": "0.0.4",
+    "publisher": "berikiushi",
     "repository": {
         "type": "git",
         "url": "https://github.com/berikiushi/vscode-bronokai-theme"
